@@ -31,5 +31,5 @@ To find efficient portfolio allocations that maximize the Sharpe ratio while acc
 
 ---
 
-Created by Alice Proietti!
+Created by Alice Proietti
 
