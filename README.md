@@ -19,6 +19,15 @@ To find efficient portfolio allocations that maximize the Sharpe ratio while acc
 - Plots the efficient frontier
 - Identifies the portfolio with maximum Sharpe ratio
 
+## Example Outputs
+
+**Optimal Portfolio:**  
+![Optimal Portfolio](optimal-portfolio.png)
+
+**Optimal Weights:**  
+![Optimal Weights](optimal-weights.png)
+
+
 ## Technologies
 - Python (pandas, numpy, matplotlib)
 - Financial data handling
